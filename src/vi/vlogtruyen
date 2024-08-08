@@ -1,0 +1,9 @@
+ext {
+    extName = 'Vlogtruyen'
+    extClass = '.Vlogtruyen'
+    themePkg = 'mangathemesia'
+    baseUrl = 'https://vlogtruyen19.com/'
+    overrideVersionCode = 0
+}
+
+apply from: "$rootDir/common.gradle"
